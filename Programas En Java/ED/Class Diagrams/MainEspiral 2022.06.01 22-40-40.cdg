@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="MainEspiral">
+  <ClassDiagramComponents>
+    <Class name="DibujarOvalo" package="mainespiral" visibility="public" xPosition="86.0" yPosition="107.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="paintComponent" returnType="void" visibility="public">
+          <Argument type="Graphics" name="g"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="DibujarRectangulo" package="mainespiral" visibility="public" xPosition="391.0" yPosition="37.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="paintComponent" returnType="void" visibility="public">
+          <Argument type="Graphics" name="g"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="HacerEspiral" package="mainespiral" visibility="public" xPosition="677.0" yPosition="51.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="paintComponent" returnType="void" visibility="public">
+          <Argument type="Graphics" name="g"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="MainEspiral" package="mainespiral" visibility="public" xPosition="511.0" yPosition="243.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
