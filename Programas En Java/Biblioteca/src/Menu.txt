@@ -1,0 +1,35 @@
+do{
+            System.out.println("1.Ingresar Vehículo, esta puede ser moto, automóvil o camioneta, no puede estar duplicado");
+            System.out.println("2.Mostrar los datos de un vehículo dada su patente (debe mostrar toda la información)");
+            System.out.println("3.Cantidad de camionetas doble cabina");
+            System.out.println("4.Total a Pagar de un vehículo dada su patente");
+            System.out.println("5.Total recaudado por SII, (tanto por IVA como por IAL de todos los vehículos)");
+            System.out.println("6.Total ganado (mostrará lo que ganará la empresa si se vendieran todos los vehículos)");
+            System.out.println("7.Salir");           
+            System.out.println("Ingresa opcion (1..7)");
+            opcion=sc.nextInt();
+            switch(opcion){
+                case 1:
+                      
+                      break;
+                      
+                case 2:
+
+                      break;
+                case 3:
+
+                       break;
+                case 4:
+
+                       break;
+                case 5:
+                      
+                       break;
+                case 6:
+                       
+                       break;
+                case 7:
+                       
+                       break;
+            }
+        }while(opcion!=7);
