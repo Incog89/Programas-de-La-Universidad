@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EjercicioEP">
+  <ClassDiagramComponents>
+    <Class name="EjercicioEP" package="excepcionesebm" visibility="public" xPosition="122.0" yPosition="71.0">
+      <Fields>
+        <Field name="untitledField" type="Object" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
