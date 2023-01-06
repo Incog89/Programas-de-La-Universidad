@@ -1,2 +1,2 @@
 # Programas-de-La-Universidad
-Programas que creamos en la Universidad Autonoma del Estado de Morelos.
+Programs that we created at the Polytechnic University of the State of Morelos.
